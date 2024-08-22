@@ -1,16 +1,18 @@
-## Hi there 👋
+### <img src="https://win98icons.alexmeub.com/icons/png/address_book_pad_users.png" width="15"> About Me
 
-<!--
-**mickewhy/mickewhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Mickey
+- 🔭 I’m very interested in AI and Gamedev
+- ⌨️ Always working on Web Apps or AI mini-projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="300" src= "https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif">
+
+### <img src="https://win98icons.alexmeub.com/icons/png/console_prompt-0.png" width="15"> Programming Languages
+[![Coding Languages](https://skillicons.dev/icons?i=py,js,java,html,css&perline=5)](https://skillicons.dev/icons?i=py,js,java,html,css&perline=5)
+
+
+### <img src="https://win98icons.alexmeub.com/icons/png/appwizard-5.png" width="15"> Frameworks and Platforms
+[![Coding Platforms](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,heroku,mysql,discordjs,tensorflow,vscode,postman&perline=5)](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,heroku,mysql,discordjs,tensorflow,vscode,postman&perline=5)
+
+---
